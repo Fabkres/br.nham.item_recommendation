@@ -36,6 +36,7 @@ Os item da tabela item_reference são os seguintes:
   
 
 Os item da tabela recommendation são os seguintes:
+
 	item_codigo = código do item (TACO/IBGE) "code"
 	item_nome nome do item (TACO) "description"
 	score = similaridade com o item_reference 
